@@ -1,0 +1,552 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Výbor z Květů zla",
+    "identifier": "urn:uuid:1ccdd5ca-c727-42f9-8b16-9c0aa1585685",
+    "author": "Charles Baudelaire",
+    "language": "cs",
+    "modified": "2022-03-15T10:52:43.842Z",
+    "Sigil version": "0.4.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0055.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/88x31.png"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/pd-88x31.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_vybor_z_kvetu_zla.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Úvodní slovo",
+      "href": "OEBPS/Text/Section0004.xhtml"
+    },
+    {
+      "title": "Předmluva",
+      "href": "OEBPS/Text/Section0005.xhtml"
+    },
+    {
+      "title": "I. SPLEEN A IDEAL",
+      "children": [
+        {
+          "title": "Vzhůru",
+          "href": "OEBPS/Text/Section0006.xhtml#heading_id_3"
+        },
+        {
+          "title": "Souzvuky",
+          "href": "OEBPS/Text/Section0007.xhtml"
+        },
+        {
+          "title": "Majáky",
+          "href": "OEBPS/Text/Section0008.xhtml"
+        },
+        {
+          "title": "Člověk a moře",
+          "href": "OEBPS/Text/Section0009.xhtml"
+        },
+        {
+          "title": "Don Juan v pekle",
+          "href": "OEBPS/Text/Section0010.xhtml"
+        },
+        {
+          "title": "Pád pyšného",
+          "href": "OEBPS/Text/Section0011.xhtml"
+        },
+        {
+          "title": "Krása",
+          "href": "OEBPS/Text/Section0012.xhtml"
+        },
+        {
+          "title": "Ideal",
+          "href": "OEBPS/Text/Section0013.xhtml"
+        },
+        {
+          "title": "Hymna kráse",
+          "href": "OEBPS/Text/Section0014.xhtml"
+        },
+        {
+          "title": "Mrcha",
+          "href": "OEBPS/Text/Section0015.xhtml"
+        },
+        {
+          "title": "De profundis clamavi",
+          "href": "OEBPS/Text/Section0016.xhtml"
+        },
+        {
+          "title": "Upír",
+          "href": "OEBPS/Text/Section0017.xhtml"
+        },
+        {
+          "title": "Semper eadem",
+          "href": "OEBPS/Text/Section0018.xhtml"
+        },
+        {
+          "title": "Ona celá",
+          "href": "OEBPS/Text/Section0019.xhtml"
+        },
+        {
+          "title": "Co řekneš večer…",
+          "href": "OEBPS/Text/Section0020.xhtml"
+        },
+        {
+          "title": "Zpověď",
+          "href": "OEBPS/Text/Section0021.xhtml"
+        },
+        {
+          "title": "Harmonie večera",
+          "href": "OEBPS/Text/Section0022.xhtml"
+        },
+        {
+          "title": "Vyzvání na cestu",
+          "href": "OEBPS/Text/Section0023.xhtml"
+        },
+        {
+          "title": "Rozhovor",
+          "href": "OEBPS/Text/Section0024.xhtml"
+        },
+        {
+          "title": "Podzimní",
+          "children": [
+            {
+              "title": "I.",
+              "href": "OEBPS/Text/Section0025.xhtml#heading_id_3"
+            },
+            {
+              "title": "II.",
+              "href": "OEBPS/Text/Section0025.xhtml#heading_id_4"
+            }
+          ],
+          "href": "OEBPS/Text/Section0025.xhtml"
+        },
+        {
+          "title": "Moesta et errabunda",
+          "href": "OEBPS/Text/Section0026.xhtml"
+        },
+        {
+          "title": "Smutek luny",
+          "href": "OEBPS/Text/Section0027.xhtml"
+        },
+        {
+          "title": "Kočky",
+          "href": "OEBPS/Text/Section0028.xhtml"
+        },
+        {
+          "title": "Hudba",
+          "href": "OEBPS/Text/Section0029.xhtml"
+        },
+        {
+          "title": "Fantastická rytina",
+          "href": "OEBPS/Text/Section0030.xhtml"
+        },
+        {
+          "title": "Puklý zvon",
+          "href": "OEBPS/Text/Section0031.xhtml"
+        },
+        {
+          "title": "Spleen",
+          "href": "OEBPS/Text/Section0032.xhtml"
+        },
+        {
+          "title": "Spleen",
+          "href": "OEBPS/Text/Section0033.xhtml"
+        },
+        {
+          "title": "O půlnoci",
+          "href": "OEBPS/Text/Section0034.xhtml"
+        },
+        {
+          "title": "Hlas nitra",
+          "href": "OEBPS/Text/Section0035.xhtml"
+        },
+        {
+          "title": "Hymna",
+          "href": "OEBPS/Text/Section0036.xhtml"
+        },
+        {
+          "title": "Neznaboh",
+          "href": "OEBPS/Text/Section0037.xhtml"
+        },
+        {
+          "title": "Vodotrysk",
+          "href": "OEBPS/Text/Section0038.xhtml"
+        },
+        {
+          "title": "Na Tassa ve vězení",
+          "href": "OEBPS/Text/Section0039.xhtml"
+        },
+        {
+          "title": "Propast",
+          "href": "OEBPS/Text/Section0040.xhtml"
+        },
+        {
+          "title": "Duma",
+          "href": "OEBPS/Text/Section0041.xhtml"
+        },
+        {
+          "title": "Hodiny",
+          "href": "OEBPS/Text/Section0042.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0006.xhtml"
+    },
+    {
+      "title": "II. PAŘÍŽSKÉ OBRAZY",
+      "children": [
+        {
+          "title": "Slepci",
+          "href": "OEBPS/Text/Section0043.xhtml#heading_id_3"
+        },
+        {
+          "title": "Večerní soumrak",
+          "href": "OEBPS/Text/Section0044.xhtml"
+        },
+        {
+          "title": "(Bez nadpisu)",
+          "href": "OEBPS/Text/Section0045.xhtml"
+        },
+        {
+          "title": "(Bez nadpisu)",
+          "href": "OEBPS/Text/Section0046.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0043.xhtml"
+    },
+    {
+      "title": "III. VÍNO",
+      "children": [
+        {
+          "title": "Duše vína",
+          "href": "OEBPS/Text/Section0047.xhtml#heading_id_3"
+        },
+        {
+          "title": "Víno milenců",
+          "href": "OEBPS/Text/Section0048.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0047.xhtml"
+    },
+    {
+      "title": "IV. KVĚTY ZLA",
+      "children": [
+        {
+          "title": "Cesta na Kytheru",
+          "href": "OEBPS/Text/Section0049.xhtml#heading_id_3"
+        },
+        {
+          "title": "Láska a lebka",
+          "href": "OEBPS/Text/Section0050.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0049.xhtml"
+    },
+    {
+      "title": "V. ODBOJ",
+      "children": [
+        {
+          "title": "Abel i Kain",
+          "children": [
+            {
+              "title": "I.",
+              "href": "OEBPS/Text/Section0051.xhtml#heading_id_8"
+            },
+            {
+              "title": "II.",
+              "href": "OEBPS/Text/Section0051.xhtml#heading_id_5"
+            }
+          ],
+          "href": "OEBPS/Text/Section0051.xhtml#heading_id_7"
+        }
+      ],
+      "href": "OEBPS/Text/Section0051.xhtml"
+    },
+    {
+      "title": "VI. SMRT",
+      "children": [
+        {
+          "title": "Smrt chudých",
+          "href": "OEBPS/Text/Section0052.xhtml#heading_id_3"
+        },
+        {
+          "title": "Den na konci",
+          "href": "OEBPS/Text/Section0053.xhtml"
+        },
+        {
+          "title": "Cesta",
+          "children": [
+            {
+              "title": "I.",
+              "href": "OEBPS/Text/Section0054.xhtml#heading_id_3"
+            },
+            {
+              "title": "II.",
+              "href": "OEBPS/Text/Section0054.xhtml#heading_id_11"
+            },
+            {
+              "title": "III.",
+              "href": "OEBPS/Text/Section0054.xhtml#heading_id_5"
+            },
+            {
+              "title": "IV.",
+              "href": "OEBPS/Text/Section0054.xhtml#heading_id_6"
+            },
+            {
+              "title": "V.",
+              "href": "OEBPS/Text/Section0054.xhtml#heading_id_7"
+            },
+            {
+              "title": "VI.",
+              "href": "OEBPS/Text/Section0054.xhtml#heading_id_8"
+            },
+            {
+              "title": "VII.",
+              "href": "OEBPS/Text/Section0054.xhtml#heading_id_9"
+            },
+            {
+              "title": "VIII.",
+              "href": "OEBPS/Text/Section0054.xhtml#heading_id_10"
+            }
+          ],
+          "href": "OEBPS/Text/Section0054.xhtml"
+        }
+      ],
+      "href": "OEBPS/Text/Section0052.xhtml"
+    }
+  ]
+}
