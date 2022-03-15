@@ -1,0 +1,1606 @@
+{
+  "author": "Charles Baudelaire",
+  "contenttype": "poetry",
+  "identifier": "baudelaire-vybor-z-kvetu-zla-0e3575c",
+  "languagecode": "cs",
+  "modified": "2022-03-15T10:52:43.842Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Výbor z Květů zla",
+  "revision": "0e3575c",
+  "generatedAt": {
+    "date": "Tue Mar 15 2022 11:00:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647342049515
+  },
+  "documents": [
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0004.html",
+      "words": 1883,
+      "chars": 12132,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Úvodní slovo",
+              "id": "úvodní-slovo",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0005.html",
+      "words": 316,
+      "chars": 1696,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 1,
+      "prev": "section0004.html",
+      "next": "section0006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Předmluva",
+              "id": "předmluva",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0006.html",
+      "words": 154,
+      "chars": 839,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 2,
+      "prev": "section0005.html",
+      "next": "section0007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "I. SPLEEN A IDEAL",
+          "id": "i-spleen-anbspideal",
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Vzhůru",
+              "id": "vzhůru",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0007.html",
+      "words": 107,
+      "chars": 588,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 3,
+      "prev": "section0006.html",
+      "next": "section0008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Souzvuky",
+              "id": "souzvuky",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0008.html",
+      "words": 314,
+      "chars": 1795,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 4,
+      "prev": "section0007.html",
+      "next": "section0009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Majáky",
+              "id": "majáky",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0009.html",
+      "words": 124,
+      "chars": 656,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 5,
+      "prev": "section0008.html",
+      "next": "section0010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Člověk a moře",
+              "id": "člověk-anbspmoře",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0010.html",
+      "words": 147,
+      "chars": 834,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 6,
+      "prev": "section0009.html",
+      "next": "section0011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Don Juan v pekle",
+              "id": "don-juan-vnbsppekle",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0011.html",
+      "words": 208,
+      "chars": 1066,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 7,
+      "prev": "section0010.html",
+      "next": "section0012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Pád pyšného",
+              "id": "pád-pyšného",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0012.html",
+      "words": 103,
+      "chars": 576,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 8,
+      "prev": "section0011.html",
+      "next": "section0013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Krása",
+              "id": "krása",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0013.html",
+      "words": 101,
+      "chars": 577,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 9,
+      "prev": "section0012.html",
+      "next": "section0014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Ideal",
+              "id": "ideal",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0014.html",
+      "words": 227,
+      "chars": 1172,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 10,
+      "prev": "section0013.html",
+      "next": "section0015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Hymna kráse",
+              "id": "hymna-kráse",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0015.html",
+      "words": 273,
+      "chars": 1462,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 11,
+      "prev": "section0014.html",
+      "next": "section0016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Mrcha",
+              "id": "mrcha",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0016.html",
+      "words": 119,
+      "chars": 614,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 12,
+      "prev": "section0015.html",
+      "next": "section0017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "De profundis clamavi",
+              "id": "denbspprofundis-clamavi",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0017.html",
+      "words": 124,
+      "chars": 638,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 13,
+      "prev": "section0016.html",
+      "next": "section0018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Upír",
+              "id": "upír",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0018.html",
+      "words": 118,
+      "chars": 608,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 14,
+      "prev": "section0017.html",
+      "next": "section0019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Semper eadem",
+              "id": "semper-eadem",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0019.html",
+      "words": 137,
+      "chars": 682,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 15,
+      "prev": "section0018.html",
+      "next": "section0020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Ona celá",
+              "id": "ona-celá",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0020.html",
+      "words": 108,
+      "chars": 582,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 16,
+      "prev": "section0019.html",
+      "next": "section0021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Co řekneš večer…",
+              "id": "conbspřekneš-večer",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0021.html",
+      "words": 248,
+      "chars": 1262,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 17,
+      "prev": "section0020.html",
+      "next": "section0022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Zpověď",
+              "id": "zpověď",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0022.html",
+      "words": 129,
+      "chars": 694,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 18,
+      "prev": "section0021.html",
+      "next": "section0023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Harmonie večera",
+              "id": "harmonie-večera",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0023.html",
+      "words": 196,
+      "chars": 991,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 19,
+      "prev": "section0022.html",
+      "next": "section0024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Vyzvání na cestu",
+              "id": "vyzvání-nanbspcestu",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0024.html",
+      "words": 111,
+      "chars": 587,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 20,
+      "prev": "section0023.html",
+      "next": "section0025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Rozhovor",
+              "id": "rozhovor",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0025.html",
+      "words": 230,
+      "chars": 1179,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 21,
+      "prev": "section0024.html",
+      "next": "section0026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Podzimní",
+              "id": "podzimní",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "I.",
+                  "id": "i",
+                  "children": []
+                },
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "II.",
+                  "id": "ii",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0026.html",
+      "words": 237,
+      "chars": 1241,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 22,
+      "prev": "section0025.html",
+      "next": "section0027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Moesta et errabunda",
+              "id": "moesta-etnbsperrabunda",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0027.html",
+      "words": 113,
+      "chars": 609,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 23,
+      "prev": "section0026.html",
+      "next": "section0028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Smutek luny",
+              "id": "smutek-luny",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0028.html",
+      "words": 105,
+      "chars": 559,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 24,
+      "prev": "section0027.html",
+      "next": "section0029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Kočky",
+              "id": "kočky",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0029.html",
+      "words": 87,
+      "chars": 455,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 25,
+      "prev": "section0028.html",
+      "next": "section0030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Hudba",
+              "id": "hudba",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0030.html",
+      "words": 113,
+      "chars": 585,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 26,
+      "prev": "section0029.html",
+      "next": "section0031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Fantastická rytina",
+              "id": "fantastická-rytina",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0031.html",
+      "words": 110,
+      "chars": 589,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 27,
+      "prev": "section0030.html",
+      "next": "section0032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Puklý zvon",
+              "id": "puklý-zvon",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0032.html",
+      "words": 183,
+      "chars": 985,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 28,
+      "prev": "section0031.html",
+      "next": "section0033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Spleen",
+              "id": "spleen",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0033.html",
+      "words": 153,
+      "chars": 819,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 29,
+      "prev": "section0032.html",
+      "next": "section0034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Spleen",
+              "id": "spleen",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0034.html",
+      "words": 155,
+      "chars": 816,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 30,
+      "prev": "section0033.html",
+      "next": "section0035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "O půlnoci",
+              "id": "onbsppůlnoci",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0035.html",
+      "words": 78,
+      "chars": 412,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 31,
+      "prev": "section0034.html",
+      "next": "section0036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Hlas nitra",
+              "id": "hlas-nitra",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0036.html",
+      "words": 87,
+      "chars": 496,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 32,
+      "prev": "section0035.html",
+      "next": "section0037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Hymna",
+              "id": "hymna",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0037.html",
+      "words": 122,
+      "chars": 634,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 33,
+      "prev": "section0036.html",
+      "next": "section0038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Neznaboh",
+              "id": "neznaboh",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0038.html",
+      "words": 192,
+      "chars": 1002,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 34,
+      "prev": "section0037.html",
+      "next": "section0039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Vodotrysk",
+              "id": "vodotrysk",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0039.html",
+      "words": 113,
+      "chars": 634,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 35,
+      "prev": "section0038.html",
+      "next": "section0040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Na Tassa ve vězení",
+              "id": "nanbsptassa-venbspvězení",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0040.html",
+      "words": 108,
+      "chars": 585,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 36,
+      "prev": "section0039.html",
+      "next": "section0041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Propast",
+              "id": "propast",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0041.html",
+      "words": 109,
+      "chars": 577,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 37,
+      "prev": "section0040.html",
+      "next": "section0042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Duma",
+              "id": "duma",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0042.html",
+      "words": 180,
+      "chars": 979,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 38,
+      "prev": "section0041.html",
+      "next": "section0043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Hodiny",
+              "id": "hodiny",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0043.html",
+      "words": 116,
+      "chars": 633,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 39,
+      "prev": "section0042.html",
+      "next": "section0044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "II. PAŘÍŽSKÉ OBRAZY",
+          "id": "ii-pařížské-obrazy",
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Slepci",
+              "id": "slepci",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0044.html",
+      "words": 283,
+      "chars": 1524,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 40,
+      "prev": "section0043.html",
+      "next": "section0045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Večerní soumrak",
+              "id": "večerní-soumrak",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0045.html",
+      "words": 77,
+      "chars": 415,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 41,
+      "prev": "section0044.html",
+      "next": "section0046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "(Bez nadpisu)",
+              "id": "bez-nadpisu",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0046.html",
+      "words": 170,
+      "chars": 949,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 42,
+      "prev": "section0045.html",
+      "next": "section0047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "(Bez nadpisu)",
+              "id": "bez-nadpisu",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0047.html",
+      "words": 180,
+      "chars": 971,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 43,
+      "prev": "section0046.html",
+      "next": "section0048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "III. VÍNO",
+          "id": "iii-víno",
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Duše vína",
+              "id": "duše-vína",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0048.html",
+      "words": 70,
+      "chars": 377,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 44,
+      "prev": "section0047.html",
+      "next": "section0049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Víno milenců",
+              "id": "víno-milenců",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0049.html",
+      "words": 464,
+      "chars": 2519,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 45,
+      "prev": "section0048.html",
+      "next": "section0050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "IV. KVĚTY ZLA",
+          "id": "iv-květy-zla",
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Cesta na Kytheru",
+              "id": "cesta-nanbspkytheru",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0050.html",
+      "words": 82,
+      "chars": 452,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 46,
+      "prev": "section0049.html",
+      "next": "section0051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Láska a lebka",
+              "id": "láska-anbsplebka",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0051.html",
+      "words": 165,
+      "chars": 857,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 47,
+      "prev": "section0050.html",
+      "next": "section0052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "V. ODBOJ",
+          "id": "v-odboj",
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Abel i Kain",
+              "id": "abel-inbspkain",
+              "children": [
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "I.",
+                  "id": "i",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "II.",
+                  "id": "ii",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0052.html",
+      "words": 114,
+      "chars": 606,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 48,
+      "prev": "section0051.html",
+      "next": "section0053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "VI. SMRT",
+          "id": "vi-smrt",
+          "children": [
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Smrt chudých",
+              "id": "smrt-chudých",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0053.html",
+      "words": 87,
+      "chars": 416,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 49,
+      "prev": "section0052.html",
+      "next": "section0054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Den na konci",
+              "id": "den-nanbspkonci",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Výbor z Květů zla",
+      "file": "section0054.html",
+      "words": 1145,
+      "chars": 5965,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 50,
+      "prev": "section0053.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Cesta",
+              "id": "cesta",
+              "children": [
+                {
+                  "index": 2,
+                  "level": 3,
+                  "name": "I.",
+                  "id": "i",
+                  "children": []
+                },
+                {
+                  "index": 3,
+                  "level": 3,
+                  "name": "II.",
+                  "id": "ii",
+                  "children": []
+                },
+                {
+                  "index": 4,
+                  "level": 3,
+                  "name": "III.",
+                  "id": "iii",
+                  "children": []
+                },
+                {
+                  "index": 5,
+                  "level": 3,
+                  "name": "IV.",
+                  "id": "iv",
+                  "children": []
+                },
+                {
+                  "index": 6,
+                  "level": 3,
+                  "name": "V.",
+                  "id": "v",
+                  "children": []
+                },
+                {
+                  "index": 7,
+                  "level": 3,
+                  "name": "VI.",
+                  "id": "vi",
+                  "children": []
+                },
+                {
+                  "index": 8,
+                  "level": 3,
+                  "name": "VII.",
+                  "id": "vii",
+                  "children": []
+                },
+                {
+                  "index": 9,
+                  "level": 3,
+                  "name": "VIII.",
+                  "id": "viii",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Výbor z Květů zla",
+      "file": "colophon.html",
+      "words": 171,
+      "chars": 1218,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
+      "prev": "section0054.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 10853,
+      "chars": 60147,
+      "ideas": 1365
+    },
+    "chapters": {
+      "words": 10675,
+      "chars": 58891,
+      "ideas": 1345
+    }
+  }
+}
