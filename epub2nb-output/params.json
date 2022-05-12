@@ -696,15 +696,13 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
       "title": "Výbor z Květů zla",
       "identifier": "urn:uuid:1ccdd5ca-c727-42f9-8b16-9c0aa1585685",
-      "author": "Charles Baudelaire",
-      "modified": "2022-03-15T10:59:44.040Z"
+      "author": "Charles Baudelaire"
     },
     "chapters": [
       {
@@ -1070,6 +1068,6 @@
       "user": "books-are-next",
       "repo": "vybor-z-kvetu-zla"
     },
-    "generatedAt": 1647341984478
+    "generatedAt": 1652351500572
   }
 }
