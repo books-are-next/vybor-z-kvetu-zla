@@ -7,9 +7,10 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "baudelaire-vybor-z-kvetu-zla-58b1e51",
-  "revision": "58b1e51",
+  "identifier": "baudelaire-vybor-z-kvetu-zla-add2747",
+  "revision": "add2747",
   "readingOrder": [
+    "promo.html",
     "section0004.html",
     "section0005.html",
     "section0006.html",
@@ -64,10 +65,22 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:40:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652352003065
+    "date": "Thu May 12 2022 15:12:38 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652368358928
   },
   "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "section0004.html",
+      "toc": []
+    },
     {
       "title": "Výbor z Květů zla",
       "file": "section0004.html",
@@ -75,8 +88,8 @@
       "chars": 12132,
       "ideas": 21,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 1,
+      "prev": "promo.html",
       "next": "section0005.html",
       "toc": [
         {
@@ -103,7 +116,7 @@
       "chars": 1696,
       "ideas": 41,
       "role": "chapter",
-      "order": 1,
+      "order": 2,
       "prev": "section0004.html",
       "next": "section0006.html",
       "toc": [
@@ -131,7 +144,7 @@
       "chars": 839,
       "ideas": 22,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "section0005.html",
       "next": "section0007.html",
       "toc": [
@@ -166,7 +179,7 @@
       "chars": 588,
       "ideas": 15,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "section0006.html",
       "next": "section0008.html",
       "toc": [
@@ -194,7 +207,7 @@
       "chars": 1795,
       "ideas": 45,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "section0007.html",
       "next": "section0009.html",
       "toc": [
@@ -222,7 +235,7 @@
       "chars": 656,
       "ideas": 17,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "section0008.html",
       "next": "section0010.html",
       "toc": [
@@ -250,7 +263,7 @@
       "chars": 834,
       "ideas": 21,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "section0009.html",
       "next": "section0011.html",
       "toc": [
@@ -278,7 +291,7 @@
       "chars": 1066,
       "ideas": 27,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "section0010.html",
       "next": "section0012.html",
       "toc": [
@@ -306,7 +319,7 @@
       "chars": 576,
       "ideas": 15,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "section0011.html",
       "next": "section0013.html",
       "toc": [
@@ -334,7 +347,7 @@
       "chars": 577,
       "ideas": 15,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "section0012.html",
       "next": "section0014.html",
       "toc": [
@@ -362,7 +375,7 @@
       "chars": 1172,
       "ideas": 29,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "section0013.html",
       "next": "section0015.html",
       "toc": [
@@ -390,7 +403,7 @@
       "chars": 1462,
       "ideas": 49,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "section0014.html",
       "next": "section0016.html",
       "toc": [
@@ -418,7 +431,7 @@
       "chars": 614,
       "ideas": 15,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "section0015.html",
       "next": "section0017.html",
       "toc": [
@@ -446,7 +459,7 @@
       "chars": 638,
       "ideas": 25,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "section0016.html",
       "next": "section0018.html",
       "toc": [
@@ -474,7 +487,7 @@
       "chars": 608,
       "ideas": 15,
       "role": "chapter",
-      "order": 14,
+      "order": 15,
       "prev": "section0017.html",
       "next": "section0019.html",
       "toc": [
@@ -502,7 +515,7 @@
       "chars": 682,
       "ideas": 25,
       "role": "chapter",
-      "order": 15,
+      "order": 16,
       "prev": "section0018.html",
       "next": "section0020.html",
       "toc": [
@@ -530,7 +543,7 @@
       "chars": 582,
       "ideas": 15,
       "role": "chapter",
-      "order": 16,
+      "order": 17,
       "prev": "section0019.html",
       "next": "section0021.html",
       "toc": [
@@ -558,7 +571,7 @@
       "chars": 1262,
       "ideas": 41,
       "role": "chapter",
-      "order": 17,
+      "order": 18,
       "prev": "section0020.html",
       "next": "section0022.html",
       "toc": [
@@ -586,7 +599,7 @@
       "chars": 694,
       "ideas": 17,
       "role": "chapter",
-      "order": 18,
+      "order": 19,
       "prev": "section0021.html",
       "next": "section0023.html",
       "toc": [
@@ -614,7 +627,7 @@
       "chars": 991,
       "ideas": 43,
       "role": "chapter",
-      "order": 19,
+      "order": 20,
       "prev": "section0022.html",
       "next": "section0024.html",
       "toc": [
@@ -642,7 +655,7 @@
       "chars": 587,
       "ideas": 15,
       "role": "chapter",
-      "order": 20,
+      "order": 21,
       "prev": "section0023.html",
       "next": "section0025.html",
       "toc": [
@@ -670,7 +683,7 @@
       "chars": 1179,
       "ideas": 31,
       "role": "chapter",
-      "order": 21,
+      "order": 22,
       "prev": "section0024.html",
       "next": "section0026.html",
       "toc": [
@@ -713,7 +726,7 @@
       "chars": 1241,
       "ideas": 31,
       "role": "chapter",
-      "order": 22,
+      "order": 23,
       "prev": "section0025.html",
       "next": "section0027.html",
       "toc": [
@@ -741,7 +754,7 @@
       "chars": 609,
       "ideas": 15,
       "role": "chapter",
-      "order": 23,
+      "order": 24,
       "prev": "section0026.html",
       "next": "section0028.html",
       "toc": [
@@ -769,7 +782,7 @@
       "chars": 559,
       "ideas": 15,
       "role": "chapter",
-      "order": 24,
+      "order": 25,
       "prev": "section0027.html",
       "next": "section0029.html",
       "toc": [
@@ -797,7 +810,7 @@
       "chars": 455,
       "ideas": 15,
       "role": "chapter",
-      "order": 25,
+      "order": 26,
       "prev": "section0028.html",
       "next": "section0030.html",
       "toc": [
@@ -825,7 +838,7 @@
       "chars": 585,
       "ideas": 15,
       "role": "chapter",
-      "order": 26,
+      "order": 27,
       "prev": "section0029.html",
       "next": "section0031.html",
       "toc": [
@@ -853,7 +866,7 @@
       "chars": 589,
       "ideas": 15,
       "role": "chapter",
-      "order": 27,
+      "order": 28,
       "prev": "section0030.html",
       "next": "section0032.html",
       "toc": [
@@ -881,7 +894,7 @@
       "chars": 985,
       "ideas": 25,
       "role": "chapter",
-      "order": 28,
+      "order": 29,
       "prev": "section0031.html",
       "next": "section0033.html",
       "toc": [
@@ -909,7 +922,7 @@
       "chars": 819,
       "ideas": 21,
       "role": "chapter",
-      "order": 29,
+      "order": 30,
       "prev": "section0032.html",
       "next": "section0034.html",
       "toc": [
@@ -937,7 +950,7 @@
       "chars": 816,
       "ideas": 33,
       "role": "chapter",
-      "order": 30,
+      "order": 31,
       "prev": "section0033.html",
       "next": "section0035.html",
       "toc": [
@@ -965,7 +978,7 @@
       "chars": 412,
       "ideas": 15,
       "role": "chapter",
-      "order": 31,
+      "order": 32,
       "prev": "section0034.html",
       "next": "section0036.html",
       "toc": [
@@ -993,7 +1006,7 @@
       "chars": 496,
       "ideas": 21,
       "role": "chapter",
-      "order": 32,
+      "order": 33,
       "prev": "section0035.html",
       "next": "section0037.html",
       "toc": [
@@ -1021,7 +1034,7 @@
       "chars": 634,
       "ideas": 15,
       "role": "chapter",
-      "order": 33,
+      "order": 34,
       "prev": "section0036.html",
       "next": "section0038.html",
       "toc": [
@@ -1049,7 +1062,7 @@
       "chars": 1002,
       "ideas": 43,
       "role": "chapter",
-      "order": 34,
+      "order": 35,
       "prev": "section0037.html",
       "next": "section0039.html",
       "toc": [
@@ -1077,7 +1090,7 @@
       "chars": 634,
       "ideas": 16,
       "role": "chapter",
-      "order": 35,
+      "order": 36,
       "prev": "section0038.html",
       "next": "section0040.html",
       "toc": [
@@ -1105,7 +1118,7 @@
       "chars": 585,
       "ideas": 15,
       "role": "chapter",
-      "order": 36,
+      "order": 37,
       "prev": "section0039.html",
       "next": "section0041.html",
       "toc": [
@@ -1133,7 +1146,7 @@
       "chars": 577,
       "ideas": 15,
       "role": "chapter",
-      "order": 37,
+      "order": 38,
       "prev": "section0040.html",
       "next": "section0042.html",
       "toc": [
@@ -1161,7 +1174,7 @@
       "chars": 979,
       "ideas": 25,
       "role": "chapter",
-      "order": 38,
+      "order": 39,
       "prev": "section0041.html",
       "next": "section0043.html",
       "toc": [
@@ -1189,7 +1202,7 @@
       "chars": 633,
       "ideas": 16,
       "role": "chapter",
-      "order": 39,
+      "order": 40,
       "prev": "section0042.html",
       "next": "section0044.html",
       "toc": [
@@ -1224,7 +1237,7 @@
       "chars": 1524,
       "ideas": 39,
       "role": "chapter",
-      "order": 40,
+      "order": 41,
       "prev": "section0043.html",
       "next": "section0045.html",
       "toc": [
@@ -1252,7 +1265,7 @@
       "chars": 415,
       "ideas": 11,
       "role": "chapter",
-      "order": 41,
+      "order": 42,
       "prev": "section0044.html",
       "next": "section0046.html",
       "toc": [
@@ -1280,7 +1293,7 @@
       "chars": 949,
       "ideas": 23,
       "role": "chapter",
-      "order": 42,
+      "order": 43,
       "prev": "section0045.html",
       "next": "section0047.html",
       "toc": [
@@ -1308,7 +1321,7 @@
       "chars": 971,
       "ideas": 26,
       "role": "chapter",
-      "order": 43,
+      "order": 44,
       "prev": "section0046.html",
       "next": "section0048.html",
       "toc": [
@@ -1343,7 +1356,7 @@
       "chars": 377,
       "ideas": 15,
       "role": "chapter",
-      "order": 44,
+      "order": 45,
       "prev": "section0047.html",
       "next": "section0049.html",
       "toc": [
@@ -1371,7 +1384,7 @@
       "chars": 2519,
       "ideas": 62,
       "role": "chapter",
-      "order": 45,
+      "order": 46,
       "prev": "section0048.html",
       "next": "section0050.html",
       "toc": [
@@ -1406,7 +1419,7 @@
       "chars": 452,
       "ideas": 22,
       "role": "chapter",
-      "order": 46,
+      "order": 47,
       "prev": "section0049.html",
       "next": "section0051.html",
       "toc": [
@@ -1434,7 +1447,7 @@
       "chars": 857,
       "ideas": 36,
       "role": "chapter",
-      "order": 47,
+      "order": 48,
       "prev": "section0050.html",
       "next": "section0052.html",
       "toc": [
@@ -1484,7 +1497,7 @@
       "chars": 606,
       "ideas": 16,
       "role": "chapter",
-      "order": 48,
+      "order": 49,
       "prev": "section0051.html",
       "next": "section0053.html",
       "toc": [
@@ -1519,7 +1532,7 @@
       "chars": 416,
       "ideas": 15,
       "role": "chapter",
-      "order": 49,
+      "order": 50,
       "prev": "section0052.html",
       "next": "section0054.html",
       "toc": [
@@ -1547,7 +1560,7 @@
       "chars": 5965,
       "ideas": 155,
       "role": "chapter",
-      "order": 50,
+      "order": 51,
       "prev": "section0053.html",
       "next": "colophon.html",
       "toc": [
