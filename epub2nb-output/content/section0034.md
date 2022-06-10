@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## O půlnoci
 
 Hodiny, když v půlnoc jdou,
@@ -67,3 +69,5 @@ jedli to, nač nebyl hlad!...
 — Rychle sfoukněm lampu, ať
 
 noční tmy se na nás schýlí!
+
+</section>

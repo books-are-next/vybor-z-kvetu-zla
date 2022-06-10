@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Úvodní slovo
 
 Charles Baudelaire narodil se 9. dubna 1821 v Paříži, kde jeho otec byl chefem kanceláře vládní za doby republiky i za doby prvního císařství. Šestiletému zemřel otec, a matka provdala se podruhé za plukovníka Aupicka, posádkou v Lyoně, kde byl dán mladý Baudelaire do škol. Roku 1836 povolán otčim jeho do Paříže, a Charles dán do koleje Ludvíka Velkého, kde již schvátila jej horečka rythmu a rýmu. Nezdá se, že by byl v studiích příliš vynikal, 21. dubna 1839 opustil ústav nadobro z důvodů neznámých.
@@ -43,3 +45,5 @@ Choroba rychle pokračovala. Nemoha zaplatiti v hôtelu, byl Baudelaire přenese
 Z hlasů časopiseckých, které celkem byly chladné a odmítavé, aspoň spravedliv byl soud Vituho v časopise „Étendard“. Asselineau obstaral též sebrané vydání děl básníkových, k nimž Gautier napsal studii literární, a vydal námi již citovanou apologii Baudelaira.
 
 Hlavní těžiště poesie Baudelairovy jest v jeho jediné knize veršů, nadepsané „Květy zla“, z které zde výbor podáváme. V těchto verších se chvěje srdce moderního člověka, aristokrata smýšlením, nepřítele každé prostřednosti a všednosti, umělce, jemuž jeho ideal jest jediným náboženstvím. Je volno každému o tom, co vyslovoval, míti své vlastní mínění a vysloviti je, ale to, jak to básník vyslovoval, tomu neupře nikdo ani novosti ani genialnosti. Nechť dle slov jednoho kritika jest celá poesie jeho pouhý bizarrní kiosk na nejzazším konci romantické Kamčatky, jisté jest a nezvratné, že ten malý kiosk jest výlučně jeho. I naň lze applikovati známý verš Mussetův, kterého on tak nenáviděl: Jest malá moje sklenice, z které piju, ale jest moje. Vlivů cizích jest v poesii jeho málo, sujety a jich zpracování jsou výlučně jeho majetkem; v směru tom jest on jedním z nejoriginalnějších básníků francouzských, ano světových. V obhajovacím materialu, jejž podal svému advokátovi, a kterého tento neužil, čteme tyto památné řádky: „Všeho již užito bylo v říši poesie. Lamartine se zmocnil nebes, Viktor Hugo země a ještě víc než země, Laprade lesů, Musset vášně a oslňující orgie, jiní vzali krb rodinný, život venkovský atd. Théophile Gautier vzal Španělsko a jeho živé barvy. — Co zbývalo? — To, co vzal Baudelaire. On byl k tomu jaksi nucen.“
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Fantastická rytina
 
 Ta divná příšera nic nemá na svém těle,
@@ -31,3 +33,5 @@ tím velkým bez hranic a chladným hřbitovem,
 kde leží ve světle, jež slunce hasnouc lije,
 
 ves národ antické i nové historie.
+
+</section>

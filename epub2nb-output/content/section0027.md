@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Smutek luny
 
 Ba, s větší leností dnes Luna sní a kývá;
@@ -31,3 +33,5 @@ Do dlaně ruky své tu bledou slzu chytne,
 jež, tříska opálu, reflexem duhy kmitne,
 
 před Slunce pohledem ji v hloubi srdce chrání.
+
+</section>

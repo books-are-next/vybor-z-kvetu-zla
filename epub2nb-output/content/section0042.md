@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Hodiny
 
 Hle Hodiny, to božství děsné, nepohnuté,
@@ -51,3 +53,5 @@ a ještě panenská, kdy božská Náhoda,
 kdy samo Pokání (poslední hospoda!),
 
 kdy řekne vše: „Teď, bloude, pozdě! Smrt jen zbyla!“
+
+</section>

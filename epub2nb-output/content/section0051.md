@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # V. ODBOJ
 
 ## Abel i Kain
@@ -73,3 +75,5 @@ se kyje stane jedním rázem!
 Kainův rode, v nebe vstup
 
 a boha pomsty svrhni na zem!
+
+</section>

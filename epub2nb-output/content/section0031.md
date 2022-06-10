@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Puklý zvon
 
 Jak sladko, trpko též! — noc zimní, mrazivá,
@@ -31,3 +33,5 @@ Jak chrapot poslední a pracující k smrti;
 tak voják umírá, jejž druzi zapomněli;
 
 mře mezi mrtvými a hyne osamělý!
+
+</section>

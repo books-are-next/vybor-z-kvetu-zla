@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Člověk a moře
 
 Vždy — člověk svobodný — mu budeš přítelem!
@@ -35,3 +37,5 @@ ni lítosti, a boj vás dělí od věků.
 Má v lásce moře smrt, smrt milá člověku: —
 
 ó věční sokové! ó bratři nesmíření!
+
+</section>

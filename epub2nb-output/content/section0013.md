@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Ideal
 
 To nikdy nebudou ty krásky pro vignetty,
@@ -31,3 +33,5 @@ Neb Angelova dci, ty Noci nádherná,
 jež v póse bizarrní, v své kráse nesměrná
 
 střeš ústům Titanův své vděky vytesané!
+
+</section>

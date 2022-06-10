@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Hudba
 
 Mne hudba schvátí časem jako ocean!
@@ -31,3 +33,5 @@ Obrovskou nad propastí
 mnou chví. — A jindy zas, to zrcadlo, jež hostí
 
 obraz mé zoufalosti!
+
+</section>

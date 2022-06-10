@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Kočky
 
 Jsou kočky pýcha domu; v milosti je mají
@@ -31,3 +33,5 @@ Jich plodný bývá bok pln jisker magických,
 a jako jemný písek, jako zlatý prach
 
 z jich srší zřítelnic blesk ohňů mystických.
+
+</section>

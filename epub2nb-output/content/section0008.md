@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Majáky
 
 Rubens, to Lethe jest, to sad jest lenosti,
@@ -91,3 +93,5 @@ jež člověk může dát o svojí hodnosti,
 ten žhoucí od věků vzdech, který k věkům vane
 
 a zmírá na břehu tvé, Bože, věčnosti!
+
+</section>

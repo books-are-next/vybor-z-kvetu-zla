@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Den na konci
 
 Den šedý s oblohy se line,
@@ -31,3 +33,5 @@ Teď složím k spánku údy svoje,
 se vina tvého do závoje,
 
 ó Tmo, jež snímáš každou tíž!“
+
+</section>

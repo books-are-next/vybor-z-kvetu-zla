@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Pád pyšného
 
 To bylo v době té, kdy bohosloví kvésti
@@ -55,3 +57,5 @@ jak veteš špinavá, jež tlí a práchniví;
 on kráčel nevěda, zda zimou jde či letem,
 
 a na zábavu byl a na posměch byl dětem.
+
+</section>

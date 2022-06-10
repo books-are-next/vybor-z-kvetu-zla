@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Spleen
 
 Mám více vzpomínek, než tisíc žil bych let.
@@ -51,3 +53,5 @@ Toť starožitná sfinx; kdo o ní ještě ví?
 Svět na ni zapomněl; jen když se slunce kloní,
 
 se budí nevrle a temnou písní zvoní.
+
+</section>

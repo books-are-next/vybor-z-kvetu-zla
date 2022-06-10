@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Zpověď
 
 Kdys jednou, rozkošná a sladká, zlehýnka
@@ -83,3 +85,5 @@ to ticho, něhu — v tuše,
 na toto vyznání šeptané tváří v tvář
 
 do zpovědnice duše.
+
+</section>

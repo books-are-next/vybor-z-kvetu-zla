@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## (Bez nadpisu)
 
 Já nezapomněl jsem, sousedko, naší villy —
@@ -23,3 +25,5 @@ na naše večeře tak dlouhé zřít se zdálo,
 na prostý pokrm náš své svity rozlévajíc
 
 a v prostých záclonách jen plátěných se tajíc.
+
+</section>

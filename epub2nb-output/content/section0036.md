@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Hymna
 
 Té nejdražší, té nejkrasší,
@@ -43,3 +45,5 @@ jež zdraví, radost veselá,
 zdar nesmrtný zpěv přináší,
 
 té modle s tváří anděla!
+
+</section>

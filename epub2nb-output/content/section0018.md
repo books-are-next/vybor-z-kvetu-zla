@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Semper eadem
 
 „Zkad divný smutek váš vždy přichází, jste děla,
@@ -31,3 +33,5 @@ Smrt svazky jemnými zde často drží nás.
 a jako v krásný sen se v oči vaše skryje
 
 a dlouho zdřímne si ve stínu vašich řas!
+
+</section>

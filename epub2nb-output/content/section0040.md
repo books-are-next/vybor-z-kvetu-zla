@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Propast
 
 Měl Pascal propast svou, ta všady byla s ním.
@@ -31,3 +33,5 @@ A duch můj závratí vždy štvaný víc a víc,
 závidí ubohý necitelnosti nic.
 
 Ach! z Čísel, Bytostí se nikdy nevymknout!
+
+</section>

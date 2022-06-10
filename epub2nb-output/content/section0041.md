@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Duma
 
 Buď moudrá, upokoj se, moje Bolesti.
@@ -31,3 +33,5 @@ Pod mostu obloukem usíná Slunce mroucí,
 jak dlouhý rubáš, slyš, ku Východu se pnoucí,
 
 slyš, drahá Bolesti, slyš, sladká Noc blíž spěje.
+
+</section>

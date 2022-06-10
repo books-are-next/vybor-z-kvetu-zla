@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Na Tassa ve vězení
 
 (Obraz Eugena Delacroix)
@@ -33,3 +35,5 @@ Ten snílek vzbuzený příbytku svého bolem,
 toť, Duše, symbol tvůj, jež v temných žiješ snech
 
 a kterou Skutečnost ve čtyřech rdousí zdech!
+
+</section>

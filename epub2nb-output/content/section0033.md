@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Spleen
 
 Když nízká obloha jak víko rakve tíží
@@ -43,3 +45,5 @@ mou duší pohřební; v něm v slzách Naděj lká...
 A Úzkost, tyran můj, svou krutou zvednouc ruku,
 
 v mou lebku zatkne žerď — s ní černý prapor vlá.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Cesta
 
 ### I.
@@ -311,3 +313,5 @@ tvým jedem občerství nás číše nalitá!
 Buď Peklo tam neb Ráj — jen nové buď, až zvíme,
 
 čím propast Neznáma nás na dně uvítá!
+
+</section>

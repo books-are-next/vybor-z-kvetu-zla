@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## (Bez nadpisu)
 
 Ta služka, dobračka, které jste záviděla,
@@ -47,3 +49,5 @@ by okem mateřským k vzrostlému děcku shlédla,
 co duši oddané bych v odpověď měl říci,
 
 slz proudy kdybych zřel jí s víček padající?
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Předmluva
 
 Hle! hloupost, blud a klam, hle! hřích a mor i hlízu,
@@ -83,3 +85,5 @@ skrz dýmky kotouče, zří popraviště stát.
 Tu jemnou obludu ty také musíš znát,
 
 čtenáři-pokrytče, — můj bližní, druhu, bratře!!
+
+</section>
