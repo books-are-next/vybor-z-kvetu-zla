@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## De profundis clamavi
 
 Já vzývám soucit tvůj, Ty, již mám pouze rád,
@@ -31,3 +33,5 @@ Věř, osud závidím té nejbídnější zvěři,
 jež ponořit se můž do tupých snů bez vlády,
 
 tak času rozvíjí se zvolna vlákno tady!
+
+</section>

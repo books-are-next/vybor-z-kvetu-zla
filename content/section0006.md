@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # I. SPLEEN A IDEAL
 
 ## Vzhůru
@@ -45,3 +47,5 @@ jak ranní oblohou se skřivan nese výše,
 a vznesen nad život kdo porozumí, slyše
 
 i němou mluvit věc i hovořiti květy.
+
+</section>

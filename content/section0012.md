@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Krása
 
 Jsem krásná, smrtelní! jak sen jest z kamene,
@@ -31,3 +33,5 @@ Ty chtivé milence bych okouzlila, mám
 dvě čistá zrcadla, vše jimiž vzplá víc krásné:
 
 Se září odvěkou své velké oči jasné.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Don Juan v pekle
 
 Když vstoupil Don Juan, kde podzemní proud sténá,
@@ -43,3 +45,5 @@ proud dělil ztemnělý u lodi pokraje;
 leč klidný hrdina, se skloniv nad zbraň svoji,
 
 zřel v černou brázdu vln, vším kolem zhrdaje.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # VI. SMRT
 
 ## Smrt chudých
@@ -33,3 +35,5 @@ Toť sláva Boha jest, mystická sýpka slavná,
 toť chudých tobolka i vlast jich starodávná,
 
 toť brána do kořán, jež v neznámé jde Nebe!
+
+</section>

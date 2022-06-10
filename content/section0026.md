@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Moesta et errabunda
 
 Tvé srdce, Agato, rci, někdy letí v stesku,
@@ -63,3 +65,5 @@ tam dál než k Indii a dál než do Číny!
 A hlas tvůj stříbrný, ten již se neozývá,
 
 těch malých rozkoší ty ráji nevinný!
+
+</section>

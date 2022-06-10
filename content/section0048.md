@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Víno milenců
 
 Dnes jediný jas jest volný vzduch!
@@ -31,3 +33,5 @@ Má sestro, vedle sebe v ráz,
 bez poklidu a oddechu
 
 do ráje snů mých v pospěchu!
+
+</section>

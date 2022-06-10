@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Vodotrysk
 
 Mdlé jsou tvé krásné oči, drahá!
@@ -87,3 +89,5 @@ v barvách se zastkvějí
 a letí šumíce
 
 v slz hojných ručeji!
+
+</section>

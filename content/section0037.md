@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Neznaboh
 
 Jak orel s nebe spad’ v své Anděl zuřivosti,
@@ -31,3 +33,5 @@ A Anděl v lásce té, jež věru! tresce mukou,
 když miluje, jím třás’ svou velkou obří rukou.
 
 A zatracenec? On — on vždy jen „Nechci!“ — dí.
+
+</section>

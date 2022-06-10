@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Ona celá
 
 V mé jizbě tuhle démon z rána
@@ -51,3 +53,5 @@ jež slity v jeden smysl jsou!
 Jeť vůní její hovor bájný,
 
 a dech jest hudbou tajemnou!“
+
+</section>

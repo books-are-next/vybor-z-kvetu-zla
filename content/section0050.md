@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Láska a lebka
 
 (Podstavec staré lampy)
@@ -45,3 +47,5 @@ v prach se rozplyne,
 jest můj mozek, krev má, maso,
 
 krutý zlosyne!“
+
+</section>

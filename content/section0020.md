@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Co řekneš večer…
 
 Co řekneš večer dnes, má duše osamělá,
@@ -31,3 +33,5 @@ Dí někdy: „Krásná jsem, dle lásky zákona,
 já nařizuji vám jen milovati Krásu,
 
 jsemť strážný Anděl váš, jsem Musa, Madonna!“
+
+</section>

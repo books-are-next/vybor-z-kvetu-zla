@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Souzvuky
 
 Jest Příroda jak chrám, kde živoucí jsou sloupy,
@@ -31,3 +33,5 @@ Jež do nekonečna se rozptylujíc víří,
 jak ambra, kadidlo, jak benzoë, mošus dává:
 
 v jich zpěvu duch i tělo jásajíce hýří.
+
+</section>

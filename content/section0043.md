@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 # II. PAŘÍŽSKÉ OBRAZY
 
 ## Slepci
@@ -33,3 +35,5 @@ Jsa zchvácen rozkoší až v hnus a v odpor ztráven,
 jim roven vleku se, však víc než oni znaven,
 
 řka: „Co jen hledají tam tito slepci v Nebi?“
+
+</section>

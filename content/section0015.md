@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Mrcha
 
 Zda, drahá, vzpomínáš, co viděli jsme dnes
@@ -99,3 +101,5 @@ již polibky tě zkruší,
 že božskou podstatu i mrtvé lásky tvar
 
 v své zachoval jsem duši!
+
+</section>

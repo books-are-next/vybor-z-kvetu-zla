@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Hlas nitra
 
 Kdo právem člověkem se zveš,
@@ -31,3 +33,5 @@ to neúprosné hádě čeká,
 jej dotíravým hlasem leká
 
 a „rozpomeň se!“ napomíná.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Hymna kráse
 
 Jdeš z hlubin oblohy, či z propasti dna vzcházíš,
@@ -59,3 +61,5 @@ co na tom, tebou-li, tvým okem plným hvězd,
 ó rhytme, paprsku, ó vůně, má jen paní! —
 
 svět méně ohyzdným, čas méně trapným jest?
+
+</section>

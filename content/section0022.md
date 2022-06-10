@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Harmonie večera
 
 Viz, chvíle přichází, kdy na svém stonku květ
@@ -35,3 +37,5 @@ dnů zašlých zářících si sbírá každý sled!
 Hle, slunce topí se v svou krev, jež stydne hned...
 
 Tvá ve mně vzpomínka jak monstrance plá tiše.
+
+</section>

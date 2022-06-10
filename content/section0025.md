@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Podzimní
 
 ### I.
@@ -63,3 +65,5 @@ Nech sklonit čelo mé a na tvém klíně skrýt,
 ať vítám ve stesku, že odchází den žhavý,
 
 ten měkký, žlutavý, jak podzim dává, svit.
+
+</section>

@@ -2,6 +2,8 @@
 contentType: poetry
 ---
 
+<section>
+
 ## Vyzvání na cestu
 
 Má sestro, má duše,
@@ -87,3 +89,5 @@ svět v teplém světle jak dřímá.
 Tam vše je klid a krása, řád
 
 a přepych, rozkoš napořád.
+
+</section>
