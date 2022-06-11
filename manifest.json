@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "baudelaire-vybor-z-kvetu-zla-d47b07a",
-  "revision": "d47b07a",
+  "identifier": "baudelaire-vybor-z-kvetu-zla-477b800",
+  "revision": "477b800",
   "readingOrder": [
     "promo.html",
     "section0004.html",
@@ -65,8 +65,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:58:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883917922
+    "date": "Sat Jun 11 2022 12:14:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949671137
   },
   "documents": [
     {
