@@ -16,6 +16,10 @@ neb ve svitu, jejž lampa na knihu nám hází!
 
 Však v očích vzpomínky, jak malým zdá se ti! —
 
+</section>
+
+<section>
+
 Nuž jeďme! Mozek náš jest žhoucím ohněm plný,
 
 v dál srdce tužbami a záštím pudí nás;
@@ -23,6 +27,10 @@ v dál srdce tužbami a záštím pudí nás;
 co v nás je bez hranic, to spějem v rythmu vlny
 
 v klid mořem skolébat, jež meze má i hráz.
+
+</section>
+
+<section>
 
 Ten z vlasti odchází, kde hanba na trůn sedá,
 
@@ -32,6 +40,10 @@ v nichž jako astrolog své tona hvězdy hledá,
 
 a vůní záhubné své Kirky uniká.
 
+</section>
+
+<section>
+
 V tvář němou proměněn by nebyl těmi čáry,
 
 se nebem, prostorem, se světlem opojí;
@@ -40,6 +52,10 @@ ať jen ho pálí mráz, ať praží slunce žáry,
 
 jen starých polibků když stopy zahojí!
 
+</section>
+
+<section>
+
 Však pravý poutník ten, kdo s lehkým srdcem vstává,
 
 jen aby šel, jak balon, když se dává v let;
@@ -47,6 +63,10 @@ jen aby šel, jak balon, když se dává v let;
 kdo svému osudu se chutě odevzdává
 
 a proč, sám nevěda, si stále říká: V před!
+
+</section>
+
+<section>
 
 Své touhy v proměnách kdo oblakům se rovná,
 
@@ -66,6 +86,10 @@ nás žene Zvědavost a dnem i nocí souží
 
 jak Anděl, jehož bič dál slunce pohání.
 
+</section>
+
+<section>
+
 To divný osud náš, že cíl nám prchá stále
 
 a nikdy nestoje, že všude může být:
@@ -73,6 +97,10 @@ a nikdy nestoje, že všude může být:
 že člověk utíká jak blázen dál a dále
 
 a pořád v naději, že někde najde klid!
+
+</section>
+
+<section>
 
 Náš duch, toť koráb jest, jenž Ikarie hledá:
 
@@ -82,6 +110,10 @@ Náš duch, toť koráb jest, jenž Ikarie hledá:
 
 „hle tam i štěstí, viz!“ — To, ďábla! úskaliny!
 
+</section>
+
+<section>
+
 A každý ostrůvek, jejž lodní stráže hlásí,
 
 to Eldorado jest, jež Osud slíbil nám;
@@ -90,6 +122,10 @@ hned na něm Obraznost své hody pořádá si,
 
 a když se rozední, co najde? Skála tam!
 
+</section>
+
+<section>
+
 Ten bídný milenec, jenž po přeludech slídí!
 
 Jej spoutej v okovy, jej dolů v moře shoď!
@@ -97,6 +133,10 @@ Jej spoutej v okovy, jej dolů v moře shoď!
 Toť lodník opilý, jenž Ameriky vidí,
 
 jichž fatamorgana ti v propast vede loď!
+
+</section>
+
+<section>
 
 Tak tulák šedivý, jenž blátem ulic bloudí,
 
@@ -116,6 +156,10 @@ Nuž plné památek nám otvírejte skřínky,
 
 neb z hvězd a z étheru jsou tkané stkvosty v nich!
 
+</section>
+
+<section>
+
 Z nud našich vězení nás chvíli osvoboďte,
 
 vždyť cesta bez páry a plachet nejkratší!
@@ -123,6 +167,10 @@ vždyť cesta bez páry a plachet nejkratší!
 V nás duše napjata jak plátno, na ni hoďte
 
 svůj obraz, za rámec mu obzor nestačí!
+
+</section>
+
+<section>
 
 Nuž, co jste viděli?
 
@@ -136,6 +184,10 @@ a překvapení ač jsme našli všelijaké,
 
 my též se nudili, tak jako doma již.
 
+</section>
+
+<section>
+
 A slunce, na lazur když moře světlo lilo,
 
 měst stkvělých na obraz když slední padal svit,
@@ -143,6 +195,10 @@ měst stkvělých na obraz když slední padal svit,
 jen touhy nepokoj nám v srdci rozpálilo
 
 se vznésti k nebi výš, v tůň světla ponořit.
+
+</section>
+
+<section>
 
 Vy města bohatá! vy kraje sebe krasší!
 
@@ -152,6 +208,10 @@ jak z těch, jež náhoda si maně z mračen snáší.
 
 Ach! k naší touze vždy se pojil stesk a žel!
 
+</section>
+
+<section>
+
 — Jest Touha starý strom: vždy rozkoš jeho kůru
 
 i jeho sílí kmen, že roste v splnění.
@@ -159,6 +219,10 @@ i jeho sílí kmen, že roste v splnění.
 Než kmen co mohutní, i větve pnou se vzhůru
 
 a výše po slunci se vztáhnou v nadšení!
+
+</section>
+
+<section>
 
 Což v nebe vzrostete, vy stromy dlouhožitné
 
@@ -168,6 +232,10 @@ jež hodí pro vaše se album nenasytné!
 
 Vždyť vám, co z daleka, se líbí nejvíce.
 
+</section>
+
+<section>
+
 My modly zahlédli, jež vzaly nosec slonu,
 
 trůn stkvostný, drahokam byl na něm každý díl,
@@ -175,6 +243,10 @@ trůn stkvostný, drahokam byl na něm každý díl,
 a palác nádherný, jak ze svých millionů
 
 zde Kroesus bankéřů by nikdy nezřídil;
+
+</section>
+
+<section>
 
 Tak pestré oděvy, zrak hledícím že přešel,
 
@@ -190,6 +262,10 @@ Ach, víc! ach, ještě víc!
 
 „Co víc? Ó dětiny!
 
+</section>
+
+<section>
+
 Ach věru! hlavní věc jsme bez hledání našli;
 
 ten žebřík Osudu, když na všech na stupních
@@ -197,6 +273,10 @@ ten žebřík Osudu, když na všech na stupních
 jsme proběhli, zda víš, co všecky stejně krášlí?
 
 Ó nudný obraz! ten, jenž neumírá — hřích!
+
+</section>
+
+<section>
 
 Tu žena, otrok zlý, vždy hrdě domýšlivá:
 
@@ -206,6 +286,10 @@ muž, vilný násilník, žráč, šelma vždycky chtivá,
 
 své služky sluha, tok, jenž stokou propluje.
 
+</section>
+
+<section>
+
 Kat, který katem rád, když mučenníka týrá,
 
 hod slavnostní a kvas, kde výpar krve čpí,
@@ -213,6 +297,10 @@ hod slavnostní a kvas, kde výpar krve čpí,
 jed moci, sultánu jenž v kostech sílu sžírá,
 
 lid, který na ruce, jež bije, s láskou lpí.
+
+</section>
+
+<section>
 
 Tu různá náboženství, jako u nás stálý
 
@@ -222,6 +310,10 @@ jak v měkkých poduškách se rozmařilec válí,
 
 kdo v žíních, ve hřebech svou rozkoš hledá jen.
 
+</section>
+
+<section>
+
 A lidstvo žvanivé, jež vlohy jeho zpily,
 
 a dnes tak bláznivé, jak vždycky znal je svět,
@@ -229,6 +321,10 @@ a dnes tak bláznivé, jak vždycky znal je svět,
 tak křičí na Boha v poslední hrozné chvíli:
 
 „Ty, jenž jsi roven mně, můj pane, budiž klet!“
+
+</section>
+
+<section>
 
 A blázen není ten, kdo Šílenství se oddá.
 
@@ -248,6 +344,10 @@ i zítra, na věky v něm všady sebe zříme:
 
 poušť nudy, oasy, v nichž rozhostil se děs.
 
+</section>
+
+<section>
+
 Mám jít? Kdo nemusí, ať na cestu se nedá!
 
 Mám zůstat? Můžeš-li! Ten jde, ten chce se krýt,
@@ -255,6 +355,10 @@ Mám zůstat? Můžeš-li! Ten jde, ten chce se krýt,
 ten prchá před vrahem, jenž honí jej a hledá —
 
 toť Čas! Jak apoštol a jako Věčný žid
+
+</section>
+
+<section>
 
 Jsou stálí chodcové; jich spěchu nepostačí
 
@@ -264,6 +368,10 @@ by svému vyvázli, ach! hanebnému štváči.
 
 A jiní doma lpí a přec ho přemohou.
 
+</section>
+
+<section>
+
 Až jednou najde nás, až na šíji nám vkročí,
 
 ni tu se nevzdejme, vždy volajíce: Dál!
@@ -271,6 +379,10 @@ ni tu se nevzdejme, vždy volajíce: Dál!
 Jak ondy do Číny jsme jeli, v dálku oči
 
 vždy s touhou upřené, an vlas nám větrem vlál,
+
+</section>
+
+<section>
 
 Dnes s jiným korábem my do Temnoty pasem
 
@@ -280,6 +392,10 @@ Slyš píseň vábivou, jak sladkým polohlasem,
 
 „Zde lotos voňavý!“ vás zve. „Ó! plujte sem,
 
+</section>
+
+<section>
+
 Těch květů ochutnat! Zde ovoce se sklízí,
 
 to čárné ovoce hlad srdce ukojí;
@@ -287,6 +403,10 @@ to čárné ovoce hlad srdce ukojí;
 zde rozkoš opojná, jež nikdy nevymizí,
 
 zde přišel podvečer, jenž věčně postojí!“
+
+</section>
+
+<section>
 
 To hlasy známé jsou, to příbuzné jsou stíny,
 
@@ -305,6 +425,10 @@ Ten břeh je plný nud, ó Smrti, již je čas.
 Jak inkoust nebem, zemí tma se lije noční,
 
 však v srdcích, ty je znáš, tam vládne samý jas!
+
+</section>
+
+<section>
 
 Ten oheň pokud plá, ať síly neztratíme,
 

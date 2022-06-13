@@ -8,6 +8,10 @@ contentType: poetry
 
 (Obraz Eugena Delacroix)
 
+</section>
+
+<section>
+
 Zde básník v žaláři, zdrán, chorý v bídě své
 
 svou nohou rukopis ve hněvu deptá, rve,
@@ -15,6 +19,10 @@ svou nohou rukopis ve hněvu deptá, rve,
 a měří pohledem, jejž rozněcuje děs,
 
 ty schody závratné, duch jeho po nichž kles’.
+
+</section>
+
+<section>
 
 A opojivý smích, jímž plný žalář jest,
 
@@ -24,11 +32,19 @@ tu číhá Pochybnost, zde směšný bydlí Strach,
 
 jenž děsný, beztvárný již dlaní po něm sáh’.
 
+</section>
+
+<section>
+
 Ten genij zavřený v té jizbě plné muk,
 
 ty masky, strašidla a křiky, jejichž pluk
 
 řve, smečka zběsilá, za jeho uchem kolem,
+
+</section>
+
+<section>
 
 Ten snílek vzbuzený příbytku svého bolem,
 

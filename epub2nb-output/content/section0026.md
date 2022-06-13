@@ -16,6 +16,10 @@ ten velký oceán, jenž světla, modra pln?
 
 Tvé srdce, Agato, rci, někdy vzletí v stesku?
 
+</section>
+
+<section>
+
 To moře, velké moře, kojí lidský žal!
 
 Ký démon písni té, jež drsným hlasem zvučí,
@@ -25,6 +29,10 @@ Ký démon písni té, jež drsným hlasem zvučí,
 když bouře varhany se v průvod rozehlučí?
 
 To moře, velké moře, kojí lidský žal!
+
+</section>
+
+<section>
 
 Mne odvez, vagone, mne odnes, lodi, hbitě!
 
@@ -36,6 +44,10 @@ Pryč odtud! z našich slz je bláto ulic těch!
 
 mne odvez, vagone, mne odnes, lodi, hbitě?
 
+</section>
+
+<section>
+
 Ta libých vůní vlast — ó jak je daleká,
 
 kde v jasném azuru se láska, radost zhlíží,
@@ -46,6 +58,10 @@ kde v rozkoš čistotnou se naše srdce hříží!
 
 Ta libých vůní vlast — ó jak je daleká!
 
+</section>
+
+<section>
+
 Než ráji zelený, kde láska s mládím pučí,
 
 ty písně, polibky, ty kytice, ten ples,
@@ -55,6 +71,10 @@ ten houslí jasný ton, jenž přes pahorky zvučí,
 ty vína přípitky, ty večery, ten les...
 
 Než ráji zelený, kde láska s mládím pučí,
+
+</section>
+
+<section>
 
 Těch malých rozkoší ty ráji nevinný,
 

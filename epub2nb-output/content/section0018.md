@@ -14,6 +14,10 @@ jak moře valící se nahým ke skalám?“
 
 zlem život, je toť taj, jenž každému je znám.
 
+</section>
+
+<section>
+
 Ta bolest prostá jest, bez hádanky a jasná,
 
 tak jako je váš smích, jenž vybuchne všem rád.
@@ -22,11 +26,19 @@ Nechť sladce zní váš hlas, ó všetečko vy krásná,
 
 ó mlčte, prosím vás, a přestaňte se ptát!
 
+</section>
+
+<section>
+
 Vy mlčte, nevinná, jež pro všecko se vznítí
 
 s rty děcka smavými! Víc ještě nežli Žití
 
 Smrt svazky jemnými zde často drží nás.
+
+</section>
+
+<section>
 
 Ó přejte, srdce mé ať sladkou lží se zpije
 

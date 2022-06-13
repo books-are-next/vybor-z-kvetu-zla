@@ -22,6 +22,10 @@ mé nadšení on sladce sílí,
 
 kam uvrhla mne láska dnes.
 
+</section>
+
+<section>
+
 Ve květů tisíce
 
 proudy se rozlejí
@@ -33,6 +37,10 @@ v barvách se zastkvějí
 a letí šumíce
 
 v slz hojných ručeji.
+
+</section>
+
+<section>
 
 Tak rovněž duše tvá, když vzplála,
 
@@ -50,6 +58,10 @@ jenž stéká tiše tajným sklonem
 
 až v srdce mého hlubinu.
 
+</section>
+
+<section>
+
 Ve květů tisíce
 
 proudy se rozlejí
@@ -61,6 +73,10 @@ v barvách se zastkvějí
 a letí šumíce
 
 v slz hojných ručeji.
+
+</section>
+
+<section>
 
 Ó ty, jíž půvab nocí dýše,
 
@@ -77,6 +93,10 @@ fontanu věčný vzdech a sten!
 zrcadlem lásky mojí jasným
 
 jest tajemný váš snivý bol!
+
+</section>
+
+<section>
 
 Ve květů tisíce
 

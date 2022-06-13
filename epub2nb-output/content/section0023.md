@@ -30,9 +30,17 @@ jak tvůj zrak zrádný,
 
 jenž v slzách se třpytí a tají.
 
+</section>
+
+<section>
+
 Tam vše je klid a krása, řád
 
 a přepych, rozkoš napořád.
+
+</section>
+
+<section>
 
 Tam nábytek, časem
 
@@ -58,9 +66,17 @@ do našich duší tajně,
 
 tou rodnou a líbeznou řečí.
 
+</section>
+
+<section>
+
 Tam vše je klid a krása, řád
 
 a přepych, rozkoš napořád.
+
+</section>
+
+<section>
 
 Na kanálech státi
 
@@ -85,6 +101,10 @@ jak do kola plá to
 ve hyacint, zlato,
 
 svět v teplém světle jak dřímá.
+
+</section>
+
+<section>
 
 Tam vše je klid a krása, řád
 

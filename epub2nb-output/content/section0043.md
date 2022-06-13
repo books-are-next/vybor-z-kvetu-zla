@@ -16,6 +16,10 @@ jak náměsíční jdou, jsou plni zvláštní hrůzy,
 
 Bůh ví, kam zabodnou své zřítelnice v šeru?
 
+</section>
+
+<section>
+
 Jich zrak, zkad uprchlo vše božské jikry plání,
 
 jak v dálku patřil by, jen k nebi hledí tmavý,
@@ -24,11 +28,19 @@ a nikdy ke dlažbě jich nakloněné hlavy
 
 se chýlit nevidíš pod tíží zadumání.
 
+</section>
+
+<section>
+
 Tak černem bezedným kol po tmě chodí kalné
 
 a bratři věčného jsou ticha. Město valné!
 
 Co kol tvůj život vře, se zmítá, zpívá, šklebí,
+
+</section>
+
+<section>
 
 Jsa zchvácen rozkoší až v hnus a v odpor ztráven,
 

@@ -14,6 +14,10 @@ jste pod paží mne vedla,
 
 ta posud nevybledla).
 
+</section>
+
+<section>
+
 A pozdě bylo již; jak peníz nově bit
 
 v úplňku měsíc planul
@@ -21,6 +25,10 @@ v úplňku měsíc planul
 a s nocí nádhernou, jak řeka, jeho svit
 
 na spící Paříž kanul.
+
+</section>
+
+<section>
 
 A kolem domů v tmách a průjezdních kol vrat
 
@@ -30,6 +38,10 @@ buď v skoku číhaly, buď drahý stín jak v chvat
 
 stíhaly kroky naše.
 
+</section>
+
+<section>
+
 Tu náhle z duše vám v rozkoše peřeji,
 
 jak vykvetla v tom jasu,
@@ -37,6 +49,10 @@ jak vykvetla v tom jasu,
 vám, srdce struny jíž se v ples jen zachvějí
 
 vždy v zvučném zníce hlasu;
+
+</section>
+
+<section>
 
 Vám svěží, veselé, jež jste jak fanfara
 
@@ -46,6 +62,10 @@ zvuk z ňader vyrval se, zvuk jak hlas barbara,
 
 zvuk chvějící se z nitra.
 
+</section>
+
+<section>
+
 Jak děcko nečisté a chorobné on byl,
 
 jež hanbou matce, otci,
@@ -53,6 +73,10 @@ jež hanbou matce, otci,
 a které před světem jich falešný stud skryl
 
 do sklepa tajně v noci.
+
+</section>
+
+<section>
 
 Anděle ubohý, ten váš mi zpíval hlas:
 
@@ -62,6 +86,10 @@ ať jak chce líčí se, vždy objeví se zas
 
 zlý egoismus lidský;
 
+</section>
+
+<section>
+
 A krušný úkol je, zde krásnou ženou být,
 
 a banalní to snaha
@@ -70,6 +98,10 @@ jest chladné baletky, jež neví, co jest cit,
 
 jak stroj se směje nahá;
 
+</section>
+
+<section>
+
 A stavět na srdcích jest hloupostí a hrou,
 
 Čas lásku s krásou zvrátí,
@@ -77,6 +109,10 @@ A stavět na srdcích jest hloupostí a hrou,
 až Zapomnění spár vše hodí v krosnu svou
 
 a Věčnosti to vrátí!“ —
+
+</section>
+
+<section>
 
 Já často vzpomněl si na tuto luny zář,
 

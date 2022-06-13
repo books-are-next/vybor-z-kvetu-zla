@@ -16,6 +16,10 @@ jež jako elixir nás hne a může zpíti,
 
 dá sílu kráčet dál, až den když zhasíná;
 
+</section>
+
+<section>
+
 Toť v bouři, vichřici a v jíní, krupobití
 
 na černém obzoru je lampa hostinná;
@@ -24,11 +28,19 @@ toť známá hospoda, kde jíst lze a lze píti
 
 a sednout, únava když rvát nás počíná;
 
+</section>
+
+<section>
+
 Toť Anděl držící v svých prstech magnetických
 
 sen, spánek, který pln jest darův extatických,
 
 jenž lože ustýlá těm, hlad jež s nouzí střebe;
+
+</section>
+
+<section>
 
 Toť sláva Boha jest, mystická sýpka slavná,
 

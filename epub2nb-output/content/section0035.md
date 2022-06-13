@@ -14,17 +14,29 @@ jak na trůně; jen slyš, zda nedí
 
 „ne“ pokaždé, když „chtěl bych“ rceš?
 
+</section>
+
+<section>
+
 Když oko tvé, jež touhou hoří,
 
 se v nymfy luzné zraky noří,
 
 dí hádě: „Pamatuj, co smíš!“
 
+</section>
+
+<section>
+
 Ploď děti nebo sázej štěpy,
 
 se dláta chop, verš piluj lepý,
 
 dí: „Večer budeš živ? — to víš?“
+
+</section>
+
+<section>
 
 Co člověk sní, co započíná,
 

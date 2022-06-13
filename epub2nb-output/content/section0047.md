@@ -16,6 +16,10 @@ kde sklo mne závistné a třpytná pečeť spíná,
 
 zní světla plný zpěv, zní píseň sbratření!
 
+</section>
+
+<section>
+
 Já umím ocenit, vím, co to stojí potu,
 
 co práce na vrších, kde praží slunce svit,
@@ -23,6 +27,10 @@ co práce na vrších, kde praží slunce svit,
 můj život zploditi, mne lákat ku životu;
 
 leč nechci nevděčným ni zlomyslným být.
+
+</section>
+
+<section>
 
 Neb divé veselí, cit rozkoše mě jímá,
 
@@ -32,6 +40,10 @@ ve hrudi člověka se teple, sladce dřímá,
 
 tam lepší pro mne hrob než v sklepích mrazivých.
 
+</section>
+
+<section>
+
 Zda slyšíš naději v mých ňadrech vířit prudce?
 
 Zda písní nedělních ty slyšíš ozvěny?
@@ -40,6 +52,10 @@ Ty, lokty na stole a vykasané ruce,
 
 mne budeš velebit a budeš blažený;
 
+</section>
+
+<section>
+
 Ve zraku ženy tvé zas požár vášně vznítím
 
 a sílu do svalův a barvu v obličej
@@ -47,6 +63,10 @@ a sílu do svalův a barvu v obličej
 dám tvému synkovi, by athletou byl žitím,
 
 mu budu olejem, jenž sílit bude jej.
+
+</section>
+
+<section>
 
 Já padnu v duši tvou jak živná ambrosie,
 

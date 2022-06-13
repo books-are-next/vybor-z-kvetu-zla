@@ -14,6 +14,10 @@ kde žití burácí, se zmítá s prudkostí
 
 a ve vzduchu jak vzduch, jak v moři moře běží;
 
+</section>
+
+<section>
+
 Da Vinci, zrcadlo jest hluboké, kde tíhnou
 
 v dál luzní andělé, s úsměvem sladkým plují
@@ -21,6 +25,10 @@ v dál luzní andělé, s úsměvem sladkým plují
 a v sosnách, ledovcích se tajuplně mihnou,
 
 jež stínem se všech stran kraj jejich obklopují;
+
+</section>
+
+<section>
 
 Rembrandt, to hospital, kde kvílí vzdech a vzdech,
 
@@ -30,6 +38,10 @@ kde dýchá modlitba kol hnisu u ran všech,
 
 a zimní paprslek kamž v jeden padne ráz;
 
+</section>
+
+<section>
+
 Angelo místo je, kde Herkulové v směsi
 
 se s Kristy splétají, a příšery kde tmou
@@ -37,6 +49,10 @@ se s Kristy splétají, a příšery kde tmou
 obrovské v soumraku a vzpřímeny svět děsí,
 
 jak prsty roztáhnou, tak rubáše své rvou.
+
+</section>
+
+<section>
 
 Zuřivost boxera i s fauna chlipností
 
@@ -46,6 +62,10 @@ a zpupný člověče, však s tělem v křehkosti,
 
 Pugete, trestanců císaři zádumčivý;
 
+</section>
+
+<section>
+
 Watteau, ten karneval, kde jak motýli lítá
 
 dav srdcí vznešených, se míhá zářící,
@@ -53,6 +73,10 @@ dav srdcí vznešených, se míhá zářící,
 do čerstvých dekorac kde lustrů světlo kmitá,
 
 a závrať rozlívá v ples tento vířící;
+
+</section>
+
+<section>
 
 Goya, sen upíra, pln děsů neznámých,
 
@@ -62,6 +86,10 @@ se zrcadly rej bab a dětí nahatých,
 
 jenž vjíždí do punčoch, čím démony zlé dráždí;
 
+</section>
+
+<section>
+
 Krvavé jezero, kde sosen stín vždy svěží,
 
 kde byt zlých Andělů, to Delacroix jest,
@@ -69,6 +97,10 @@ kde byt zlých Andělů, to Delacroix jest,
 kde nebem truchlivým fanfary divné běží,
 
 jak harfy ztlumené, harf Weberových zvěst;
+
+</section>
+
+<section>
 
 Ty kletby, rouhání, ty nářky, vzdechy, steny,
 
@@ -78,6 +110,10 @@ sterými bludišti jsou ohlas opáčený,
 
 pro srdce smrtelné toť božské opium!
 
+</section>
+
+<section>
+
 To výkřik opáčen je stráží tísícerou,
 
 toť heslo slané dál heroldů tisíci,
@@ -85,6 +121,10 @@ toť heslo slané dál heroldů tisíci,
 na věží tisíci to maják jest v noc šerou,
 
 křik lovců ztracených v hvozd velký, mlčící!
+
+</section>
+
+<section>
 
 Toť vskutku největší je svědectví, ó Pane,
 

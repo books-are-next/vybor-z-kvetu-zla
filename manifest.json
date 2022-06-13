@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "baudelaire-vybor-z-kvetu-zla-477b800",
-  "revision": "477b800",
+  "identifier": "baudelaire-vybor-z-kvetu-zla-f5a6291",
+  "revision": "f5a6291",
   "readingOrder": [
     "promo.html",
     "section0004.html",
@@ -65,8 +65,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:14:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949671137
+    "date": "Mon Jun 13 2022 21:59:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157574860
   },
   "documents": [
     {
@@ -1641,9 +1641,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 74,
-      "chars": 610,
-      "ideas": 7,
+      "words": 153,
+      "chars": 1061,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "section0054.html",
@@ -1661,9 +1661,9 @@
   ],
   "totals": {
     "all": {
-      "words": 10756,
-      "chars": 59539,
-      "ideas": 1355
+      "words": 10835,
+      "chars": 59990,
+      "ideas": 1362
     },
     "chapters": {
       "words": 10675,

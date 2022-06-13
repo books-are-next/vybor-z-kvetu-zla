@@ -14,6 +14,10 @@ jsou měkké, úlisné i zimomřivé; stranou
 
 že rády sedají, též jim se podobají.
 
+</section>
+
+<section>
+
 Je rozkoš vábívá, jsou rády vědě družky,
 
 a ticho, hrůza tmy jim milé chvílemi;
@@ -22,11 +26,19 @@ je za své zvolilo by posly Podzemí,
 
 než neochotné jsou a nepoddajné služky.
 
+</section>
+
+<section>
+
 A v ušlechtilé póse v snění kdy se hříží,
 
 jsou sfingám podobny, jež leží v pustinách,
 
 an těžký, zdá se, sen a bez konce je tíží.
+
+</section>
+
+<section>
 
 Jich plodný bývá bok pln jisker magických,
 
