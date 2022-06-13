@@ -14,6 +14,10 @@ toť chmurný vesmír jest s obzorem z olova,
 
 kde v noci s rouháním děs pluje odevšad.
 
+</section>
+
+<section>
+
 Tam po šest měsíců bez tepla slunce svítí,
 
 a druhých šest je noc, jež pokrývá vše temně,
@@ -22,11 +26,19 @@ to víc jest holý kraj, než polární je země,
 
 bez lesa, bez tvorů, bez potoků a kvítí.
 
+</section>
+
+<section>
+
 Ba neznám větší děs, jenž moh’ by děsit svět,
 
 nad mraznou ukrutnost zde slunce, jež je led,
 
 nad ohromnou tu noc jak starý Chaos v šeři.
+
+</section>
+
+<section>
 
 Věř, osud závidím té nejbídnější zvěři,
 

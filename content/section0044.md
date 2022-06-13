@@ -14,6 +14,10 @@ tu nebe nad námi jak kopule se sklene,
 
 a člověk ve zvíře se změní nezkrocené.
 
+</section>
+
+<section>
+
 Buď vítán, Večere, buď vítán, pozdraven:
 
 „Dnes pracoval jsem dost,“ když člověk unaven
@@ -25,6 +29,10 @@ si v tobě oddechne, jež krutým bolem stená,
 v sen hlavu učenec když těžkou ukládá,
 
 když dělník vysílen v své lůžko upadá.
+
+</section>
+
+<section>
 
 Než duchů nečistých tu chvíli k nám se vrací
 
@@ -46,6 +54,10 @@ tím městem bahna dál a dál se rozprostírá
 
 jak červ, jenž člověku až do masa se vžírá.
 
+</section>
+
+<section>
+
 Pak zvuky budí se: tam parterre zahlučí,
 
 tam syčí kuchyně, zde hudba zabručí,
@@ -62,6 +74,10 @@ tu dvéře otvírá, tam páčí pokladnici,
 
 by žil dnů několik, svou oblék’ milostnici.
 
+</section>
+
+<section>
+
 V tu těžkou hodinu vstup do sebe, můj duchu
 
 vstup do sebe a sluch svůj zavři tomu ruchu.
@@ -77,6 +93,10 @@ jich vzdechy naplní se špitál v onu dobu.
 Kdo domů vrátí se, když sedět budou spolu
 
 ti, kdo jej milují, u večerního stolu?
+
+</section>
+
+<section>
 
 Však mnohý nepoznal té slasti, kterou kyne
 

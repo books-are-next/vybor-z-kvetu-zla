@@ -14,6 +14,10 @@ A neznabohem třás’: „Já chci, měj na tom dosti!
 
 Tvůj dobrý anděl jsem; co zákon tvůj, ať zvíš!“
 
+</section>
+
+<section>
+
 „Neb bratra milovat ty budeš bez reptání,
 
 ať žebrák nebo vrah, ať blb, ať blázen jest,
@@ -22,11 +26,19 @@ plášť prostřít lásky své ať můžeš k uvítání,
 
 až Ježíš, mimo jda, svůj bude slavit vjezd.“
 
+</section>
+
+<section>
+
 „Toť zákon lásky jest: v tvém srdci ať se vzmnoží,
 
 než zcela vystydne, žár její k slávě boží!
 
 To rozkoš nejvyšší — ta věčnost uvidí!“
+
+</section>
+
+<section>
 
 A Anděl v lásce té, jež věru! tresce mukou,
 

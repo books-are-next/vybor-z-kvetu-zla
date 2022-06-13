@@ -16,6 +16,10 @@ Slyš, smutečný ten zvuk, když dříví k zemi padne,
 
 tím dvorem dlážděným jak temně zaduní!
 
+</section>
+
+<section>
+
 A zima veškerá pak vstoupí do mne: těžká
 
 a tvrdá práce, zášť i hrůza, hnus a děs.
@@ -24,6 +28,10 @@ Jak slunce, v polárním když smutném pekle mešká,
 
 mé srdce nebude, než rudý ledu tes.
 
+</section>
+
+<section>
+
 A každý dřeva kus, jak zazní, děsí duši,
 
 jak šafot k popravě tam dole měl by stát.
@@ -31,6 +39,10 @@ jak šafot k popravě tam dole měl by stát.
 Jsem věži podoben, v niž tvrdý beran buší
 
 ráz na ráz nezmorně, až nachýlí se v pád.
+
+</section>
+
+<section>
 
 Mně zdá se, na pospěch že někdo rakev sbíjí,
 
@@ -50,6 +62,10 @@ i láska tvá i krb mne nechá bez náhrady,
 
 neb toužím po slunci, jak z moře povstává.
 
+</section>
+
+<section>
+
 A přece miluj mne, mé srdce, buď jak matka,
 
 ať špatný jsem a zlý, ať jsem i nevděčen!
@@ -57,6 +73,10 @@ ať špatný jsem a zlý, ať jsem i nevděčen!
 Ať sestra, milenka, buď ty ta rozkoš krátká,
 
 den jasný v podletí a západ bez mračen!
+
+</section>
+
+<section>
 
 Ach na krátko! Hrob čeká lačný, nedočkavý!
 

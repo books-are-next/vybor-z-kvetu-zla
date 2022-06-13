@@ -14,6 +14,10 @@ les velký symbolů je okres chrámový,
 
 ty zrakem přátelským zří na toho, kdo vstoupí.
 
+</section>
+
+<section>
+
 Směs ozvěn spojených jak jeden souzvuk vydá,
 
 jež přišly z daleka a v jedno splynou v něm,
@@ -22,11 +26,19 @@ jak světla souhlas den, jak noc je souhlas těm,
 
 tak vůně si i ton i barva odpovídá.
 
+</section>
+
+<section>
+
 Jsou jako dětské tílko vůně čerstvé, milé,
 
 jak hoboj sladké, vůně zelené jak tráva,
 
 — a jiné nádherné a hříšné, rozmařilé,
+
+</section>
+
+<section>
 
 Jež do nekonečna se rozptylujíc víří,
 

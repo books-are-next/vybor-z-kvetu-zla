@@ -8,6 +8,10 @@ contentType: poetry
 
 Mám více vzpomínek, než tisíc žil bych let.
 
+</section>
+
+<section>
+
 Neb starý sekretář — ó! že bys nespočet’,
 
 co veršů, psaníček, co aktů, not a písní,
@@ -19,6 +23,10 @@ víc nemá tajemství než smutná hlava má.
 Toť pyramida jest, toť krypta ohromná,
 
 a v šachtě obecné víc mrtvol nepráchniví.
+
+</section>
+
+<section>
 
 Jsem hřbitov zapadlý; jej měsíc nenavštíví;
 
@@ -34,6 +42,10 @@ kde vůni flaconu, jenž leží otevřen,
 
 ssá pastel unylý a bledý Boucher jen.
 
+</section>
+
+<section>
+
 Kol nás dnů kulhavých se líně vleče řada,
 
 sníh hustých ve vločkách an těžce k zemi padá,
@@ -41,6 +53,10 @@ sníh hustých ve vločkách an těžce k zemi padá,
 a Nuda, lhostejnost když nám ji porodí,
 
 tak roste, s věčností že délkou závodí.
+
+</section>
+
+<section>
 
 Teď, hmoto živoucí, co jsi, než balvan žuly!
 

@@ -34,6 +34,10 @@ běh času; z rodin jich se nikdo nepřiblíží
 
 cár věnců nahradit, jež visí s jejich mříží.
 
+</section>
+
+<section>
+
 Když večer ve krbu to syčí, praská, zpívá,
 
 bych zřel ji, v lenošku jak usedává snivá,

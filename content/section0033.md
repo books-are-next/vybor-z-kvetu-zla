@@ -14,6 +14,10 @@ když noci smutnější se temné ráno plíží,
 
 an mlhou zastírá se obzor kol a kol;
 
+</section>
+
+<section>
+
 Svět vlhký na žalář když kolem nás se mění,
 
 kde Naděj‚ netopýr, ach! lítá těkavý,
@@ -21,6 +25,10 @@ kde Naděj‚ netopýr, ach! lítá těkavý,
 jenž bije bázlivě svým křídlem o sklepení
 
 a tluče plesnivý se o strop do hlavy;
+
+</section>
+
+<section>
 
 Když jako velká mříž, jež žalář uzavírá,
 
@@ -30,6 +38,10 @@ tlum němých pavouků své niti rozprostírá
 
 a sítí šerednou nám mozek zapřádá:
 
+</section>
+
+<section>
+
 Tu zvony rozhoupnou se rázem z nenadání
 
 a k nebi vrhají svůj rozpoutaný vřesk
@@ -37,6 +49,10 @@ a k nebi vrhají svůj rozpoutaný vřesk
 jak bludných duchů shluk a nemajících stání,
 
 že stále zní jich ston a nepřestává stesk.
+
+</section>
+
+<section>
 
 — A průvod bez hudby a bez bubnů jde tluku
 

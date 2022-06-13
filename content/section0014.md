@@ -14,6 +14,10 @@ jím zločin ve zmatek se zásluhami házíš,
 
 a proto bych tak rád tě k vínu přirovnal.
 
+</section>
+
+<section>
+
 V tvém oku svítání i západu žhne rdění,
 
 ty vůně šíříš kol jak večer bouřlivý,
@@ -21,6 +25,10 @@ ty vůně šíříš kol jak večer bouřlivý,
 tvé rty jsou amfora, polibky opojení,
 
 jímž dítě hrdinou a rek jest bázlivý.
+
+</section>
+
+<section>
 
 Jdeš z jícnů temnosti, či s hvězd k nám sestupuješ?
 
@@ -30,6 +38,10 @@ na zdař bůh radosti, neštěstí rozhazuješ,
 
 ty za nic neručíš a řídíš všeho směs.
 
+</section>
+
+<section>
+
 Ty kráčíš po mrtvých, z nich žerty tropíš sobě,
 
 a z tvojich klenotů je Hrůza nejkrasší,
@@ -37,6 +49,10 @@ a z tvojich klenotů je Hrůza nejkrasší,
 a Vražda, z cetek tvých jsouc nejmilejší tobě,
 
 na zpupném břiše tvém se v tanci povznáší.
+
+</section>
+
+<section>
 
 Ó svíčko, jepice jak slepá k tobě pádí,
 
@@ -46,6 +62,10 @@ a s tváří mroucího, jenž mohylu svou hladí,
 
 milenec uklání se nad milenky hruď.
 
+</section>
+
+<section>
+
 Co na tom, odkud jdeš, zda z pekla čili z ráje,
 
 ó Kráso! příšero! v své hrůze přímo k nám,
@@ -53,6 +73,10 @@ Co na tom, odkud jdeš, zda z pekla čili z ráje,
 tvé oko, úsměv tvůj, tvá noha Věčna taje
 
 když otevrou mi jen, jež neznám a rád mám.
+
+</section>
+
+<section>
 
 Ať Anděl, Siréna, Ďas, Bůh se v tobě sklání,
 

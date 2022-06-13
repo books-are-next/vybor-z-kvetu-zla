@@ -14,6 +14,10 @@ ať volným étherem, ať pod mhy stropem hnán,
 
 já plachty své jsem vzpjal;
 
+</section>
+
+<section>
+
 A plíce vzedmuté jak z plátna, mužně v před
 
 i hruď i každý sval,
@@ -22,11 +26,19 @@ já volně přeskáči vln skrytých nocí hřbet,
 
 hřmí přes jich vrch můj cval;
 
+</section>
+
+<section>
+
 Vše vášně korábu, jenž má se ztroskotat,
 
 svou duší cítím třásti;
 
 i vítr příznivý, i bouř a její chvat
+
+</section>
+
+<section>
 
 Obrovskou nad propastí
 

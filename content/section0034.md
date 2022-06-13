@@ -22,6 +22,10 @@ přec jsme žili, pověz jen,
 
 jako kacíř zatvrzelý.
 
+</section>
+
+<section>
+
 Kristu, jenž nám Bůh a pán,
 
 my jsme rouhali se krutě.
@@ -38,6 +42,10 @@ chválili jsme, co je hřích,
 
 tomu, co je ctnost, se smáli.
 
+</section>
+
+<section>
+
 Pohoršili (sluha — kat!)
 
 bližního, jenž v bolu vzlýká.
@@ -53,6 +61,10 @@ ve prachu nás bylo zřít,
 vítající bledý svit,
 
 jenž se míhá na Hnilotě.
+
+</section>
+
+<section>
 
 Jindy — hrdé lyry kněz,
 

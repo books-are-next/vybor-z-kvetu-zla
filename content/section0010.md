@@ -14,6 +14,10 @@ kýs žebrák pochmurný se zrakem Antisténa
 
 v dlaň mstící, mohutnou hned vesla uchvátil.
 
+</section>
+
+<section>
+
 Tu s prsy svislými a s rozhaleným šatem
 
 pod černou oblohou se ženy svíjely,
@@ -21,6 +25,10 @@ pod černou oblohou se ženy svíjely,
 jak stádo obětí na jatky hnané chvatem
 
 mu spěly v zápětí a žalně úpěly.
+
+</section>
+
+<section>
 
 Své dluhy Sganarelle se smíchem vyžadoval,
 
@@ -30,6 +38,10 @@ po břehu bloudícím všem mrtvým ukazoval
 
 na synka zbujného, jenž znectil jeho vlas.
 
+</section>
+
+<section>
+
 Elvíra hubená se v smutku cudná chvěla
 
 blíž chotě-milence, jenž tak ji oklamal,
@@ -37,6 +49,10 @@ blíž chotě-milence, jenž tak ji oklamal,
 snad úsměv poslední mu vylákati chtěla,
 
 v němž zážeh prvních něh a prvních slibů plál.
+
+</section>
+
+<section>
 
 U kormy vzpřímený muž z kamene stál v zbroji,
 

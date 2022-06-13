@@ -34,6 +34,10 @@ Z té velké slávy, rci, co potom ještě zbude?
 
 Ty sám? Ach, na posměch jen nedochůdče chudé!“
 
+</section>
+
+<section>
+
 A hned v té chvíli mu se rozum zakalí,
 
 to slunce zářící se rouškou zahalí.
@@ -47,6 +51,10 @@ a plný pořádku a hojný na poklady...
 Teď noc a mlčení se rozšířily všady
 
 tak jako v sklepení, když klíč je zahozen.
+
+</section>
+
+<section>
 
 Jak němá tvář on šel, šel městem, z města ven
 
