@@ -8,7 +8,8 @@
       "author": "Charles Baudelaire",
       "modified": "2022-03-15T10:52:43.842Z",
       "publisherShort": "mkp",
-      "publisher": "Městská knihovna v Praze"
+      "publisher": "Městská knihovna v Praze",
+      "edition": "poezie"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
@@ -1068,6 +1069,6 @@
       "user": "books-are-next",
       "repo": "vybor-z-kvetu-zla"
     },
-    "generatedAt": 1655271926357
+    "generatedAt": 1655364412698
   }
 }

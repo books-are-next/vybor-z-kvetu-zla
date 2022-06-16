@@ -12,6 +12,7 @@ meta:
   modified: '2022-03-15T10:52:43.842Z'
   publisherShort: mkp
   publisher: Městská knihovna v Praze
+  edition: poezie
 readingOrder:
   - promo.html
   - section0004.html

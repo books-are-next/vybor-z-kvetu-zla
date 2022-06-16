@@ -5,10 +5,11 @@
   "title": "Výbor z Květů zla",
   "author": "Charles Baudelaire",
   "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "baudelaire-vybor-z-kvetu-zla-c82480e",
-  "revision": "c82480e",
+  "identifier": "baudelaire-vybor-z-kvetu-zla-f7f9c6d",
+  "revision": "f7f9c6d",
   "readingOrder": [
     "promo.html",
     "section0004.html",
@@ -65,8 +66,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 06:01:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272869142
+    "date": "Thu Jun 16 2022 07:35:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364936922
   },
   "documents": [
     {
@@ -1661,9 +1662,9 @@
   ],
   "totals": {
     "all": {
-      "words": 10863,
-      "chars": 60212,
-      "ideas": 1363
+      "words": 10864,
+      "chars": 60218,
+      "ideas": 1364
     },
     "chapters": {
       "words": 10675,
