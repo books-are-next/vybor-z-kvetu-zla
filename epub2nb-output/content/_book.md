@@ -66,7 +66,7 @@ readingOrder:
   - section0052.html
   - section0053.html
   - section0054.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children: []

@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "baudelaire-vybor-z-kvetu-zla-31f4d76",
-  "revision": "31f4d76",
+  "identifier": "baudelaire-vybor-z-kvetu-zla-5cf58ed",
+  "revision": "5cf58ed",
   "readingOrder": [
     "promo.html",
     "section0004.html",
@@ -63,11 +63,11 @@
     "section0052.html",
     "section0053.html",
     "section0054.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:33:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980411148
+    "date": "Thu Jul 07 2022 08:42:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183362379
   },
   "documents": [
     {
@@ -1563,7 +1563,7 @@
       "role": "chapter",
       "order": 51,
       "prev": "section0053.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1641,11 +1641,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 181,
-      "chars": 1283,
+      "chars": 1280,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "section0054.html",
       "next": null,
@@ -1662,8 +1662,8 @@
   ],
   "totals": {
     "all": {
-      "words": 10864,
-      "chars": 60218,
+      "words": 10863,
+      "chars": 60220,
       "ideas": 1364
     },
     "chapters": {
