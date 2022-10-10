@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "baudelaire-vybor-z-kvetu-zla-c7e9516",
-  "revision": "c7e9516",
+  "identifier": "baudelaire-vybor-z-kvetu-zla-30e6e13",
+  "revision": "30e6e13",
   "readingOrder": [
     "promo.html",
     "section0004.html",
@@ -66,8 +66,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:09:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151784645
+    "date": "Mon Oct 10 2022 16:01:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417710679
   },
   "documents": [
     {
@@ -1643,7 +1643,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 179,
-      "chars": 1283,
+      "chars": 1286,
       "ideas": 13,
       "role": "about",
       "order": null,
@@ -1663,7 +1663,7 @@
   "totals": {
     "all": {
       "words": 10862,
-      "chars": 60218,
+      "chars": 60221,
       "ideas": 1362
     },
     "chapters": {
