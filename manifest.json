@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "baudelaire-vybor-z-kvetu-zla-30e6e13",
-  "revision": "30e6e13",
+  "identifier": "baudelaire-vybor-z-kvetu-zla-5b12e60",
+  "revision": "5b12e60",
   "readingOrder": [
     "promo.html",
     "section0004.html",
@@ -66,8 +66,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:01:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417710679
+    "date": "Fri Oct 21 2022 11:47:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352838331
   },
   "documents": [
     {
